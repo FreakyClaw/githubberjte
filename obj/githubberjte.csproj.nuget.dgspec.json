@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\samde\\Documents\\bewijzenmap\\periode 1.1\\pro 2\\AAAAAAAAAAAAAAAAAA\\githubberjte\\githubberjte.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\samde\\Documents\\bewijzenmap\\periode 1.1\\pro 2\\AAAAAAAAAAAAAAAAAA\\githubberjte\\githubberjte.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samde\\Documents\\bewijzenmap\\periode 1.1\\pro 2\\AAAAAAAAAAAAAAAAAA\\githubberjte\\githubberjte.csproj",
+        "projectName": "githubberjte",
+        "projectPath": "C:\\Users\\samde\\Documents\\bewijzenmap\\periode 1.1\\pro 2\\AAAAAAAAAAAAAAAAAA\\githubberjte\\githubberjte.csproj",
+        "packagesPath": "C:\\Users\\samde\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samde\\Documents\\bewijzenmap\\periode 1.1\\pro 2\\AAAAAAAAAAAAAAAAAA\\githubberjte\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\samde\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
